@@ -28,3 +28,8 @@ header img {
   height: 500px;
   background-color: white;
 }
+ul li {
+  color: green;
+  content: "*";
+  font-size: 28px;
+}
